@@ -1,7 +1,3 @@
----
-versionFrom: 9.0.0
-versionTo: 10.0.0
----
 # Creating a Master Template
 
 We've seen how to create a **Document Type** and its corresponding **Template**. If you want to create a three-page site containing; Home, News and Contact Us pages, you would create a **_Document Type_** with a corresponding **Template** and copy the same HTML code into each template.

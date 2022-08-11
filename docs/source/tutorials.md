@@ -8,7 +8,7 @@ meta.Description: "Here you can find tutorials covering things like creating a s
 
 # Tutorials
 
-## [Creating a Basic Site with Umbraco](Tutorials/Creating-Basic-Site/index.md)
+## [Creating a Basic Site with Umbraco](Tutorials/Creating-Basic-Site/Introduction.md)
 
 Step by step guide of everything you need to get a basic site up and running in Umbraco.
 
