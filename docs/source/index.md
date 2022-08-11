@@ -71,5 +71,3 @@ How to use Umbraco Heartcore: Getting started, API Documentation and client libr
 
 [Getting Started](https://github.com/umbraco/UmbracoDocs/blob/master/CONTRIBUTING.md) contributing to the documentation. 
 [Guidelines](https://our.umbraco.com/documentation/Contribute/) for Umbraco documentation*
-
-----------------
