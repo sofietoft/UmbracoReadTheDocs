@@ -1,8 +1,3 @@
----
-versionFrom: 8.0.0
-versionTo: 10.0.0
----
-
 # Conclusions
 
 We now have a fully fledged working site! Hopefully, this guide has given you all the basics required to create your own site in Umbraco.
@@ -16,5 +11,4 @@ This is not the limit of Umbraco - you've barely scratched the surface in this g
 
 ## Happy Umbraco-ing
 
----
 Prev: [Adding Language Variants](../Adding-Language-Variants)

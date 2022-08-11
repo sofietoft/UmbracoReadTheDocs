@@ -68,5 +68,3 @@ To manage the **Generic** tab on a **Document Type/Media Type**:
 3. Go to the **Document Type/Media Type**, the **Generic** tab will now be replaced by the tab from the composition.
 
     ![Composition Add Tab](images/Composition-add-tab.gif)
-
----

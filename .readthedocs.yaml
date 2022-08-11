@@ -11,6 +11,7 @@ sphinx:
 python:
   # Install our python package before building the docs
   install:
+    # requirements file needed in order to install the myst_parser on build.
     - requirements: docs/requirements.txt 
     - method: pip
       path: .
