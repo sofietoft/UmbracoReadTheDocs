@@ -1,8 +1,3 @@
----
-versionFrom: 7.0.0
-versionTo: 10.0.0
----
-
 # reCAPTCHA V2
 
 You need to configure your site keys adding your public and private keys.

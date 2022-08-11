@@ -4,11 +4,11 @@ versionTo: 10.0.0
 meta.Title: "Adding a field type to Umbraco Forms"
 ---
 
-# Adding a field type to Umbraco Forms #
+# Adding a field type to Umbraco Forms
 
 *This builds on the "[adding a type to the provider model](Adding-a-Type.md)" chapter*
 
-## C#
+## Csharp
 
 Add a new class to the Visual Studio solution, make it inherit from `Umbraco.Forms.Core.FieldType` and fill in the constructor:
 

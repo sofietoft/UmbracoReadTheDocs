@@ -1,10 +1,3 @@
----
-versionFrom: 9.0.0
-versionTo: 10.0.0
-meta.Title: "Working with Umbraco Forms data"
-meta.Description: "Developer documentation on working with Forms record data."
----
-
 # Working with Record Data
 
 Umbraco Forms `v8.2` includes some helper methods that return records of a given Form, which can be used to output records in your templates using razor.

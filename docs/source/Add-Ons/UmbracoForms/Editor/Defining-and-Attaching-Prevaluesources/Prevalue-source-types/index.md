@@ -1,8 +1,3 @@
----
-versionFrom: 8.0.0
-versionTo: 10.0.0
----
-
 # Overview of the Prevalue Source Types
 
 There are some default prevalue source types that can be used.
@@ -53,7 +48,5 @@ Here is a quick overview of the default types:
     In the example below, the prevalue collection from a data type called `Home - Font - Radio button` is used:
 
     ![Data Type prevalues](images/datatype-prevalues.png)
-
----
 
 Prev: [Defining and attaching prevalue sources](../index.md)

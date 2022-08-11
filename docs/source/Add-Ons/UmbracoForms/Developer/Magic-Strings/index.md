@@ -41,6 +41,7 @@ If the item cannot be found in the collection of session keys, it will then try 
 `[#myUmbracoField]` this allows you to insert a property of that page and is based on the alias of the field. If your page has a property with the alias 'title', you can use `[#title]` in your form.
 
 Some extra variables are:
+
 - `[#pageName]`: The nodename of the current page
 - `[#pageID]`: The node ID of the current page
 
@@ -53,6 +54,7 @@ Some extra variables are:
 `{myAliasForFormField}` this allows you to display the entered value for that specific field from the form submission. Used in workflows to send an automated email back to the customer based on the email address submitted in the form. The value here needs to be the alias of the field, and not the name of the field.
 
 Some extra variables are:
+
 - `{record.id}`: The ID of the current record
 - `{record.updated}`: The updated date/time of the current record
 - `{record.created}`: The created date/time of the current record

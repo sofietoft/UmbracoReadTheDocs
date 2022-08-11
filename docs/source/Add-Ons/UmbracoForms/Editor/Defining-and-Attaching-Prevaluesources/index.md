@@ -1,8 +1,3 @@
----
-versionFrom: 7.0.0
-versionTo: 10.0.0
----
-
 # Defining and Attaching Prevalue Sources
 
 Prevalue sources are a way to pre-define and/or retrieve a list of items from a certain source. They can be added in any field types that include some kind of list like Dropdown and Multiple/Single Choice lists.
@@ -54,7 +49,5 @@ Let's add a Multiple Choice field type in our Form. If there is at least one pre
 Once you have selected the prevalue source, the values are rendered in the Forms designer from the attached source.
 
 ![Preview](images/fieldpreview.png)
-
----
 
 Prev: [Viewing and Exporting Entries](../Viewing-and-Exporting-Entries/index.md) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Next: [Overview of the Prevalue Source Types](../Defining-and-Attaching-Prevaluesources/Prevalue-source-types/index.md)

@@ -1,8 +1,3 @@
----
-versionFrom: 7.0.0
-versionTo: 10.0.0
----
-
 # Editor Documentation
 
 This section covers the different parts of the Forms Interface.

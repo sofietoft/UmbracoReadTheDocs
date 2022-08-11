@@ -1,9 +1,4 @@
----
-versionFrom: 8.0.0
-versionTo: 10.0.0
----
-
-# reCAPTCHA V3
+ reCAPTCHA V3
 
 You need to configure your site keys by adding your public and private keys.
 

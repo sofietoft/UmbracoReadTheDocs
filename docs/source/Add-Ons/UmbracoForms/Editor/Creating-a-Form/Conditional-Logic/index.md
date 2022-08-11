@@ -1,8 +1,3 @@
----
-versionFrom: 7.0.0
-versionTo: 10.0.0
----
-
 # Setting-up Conditional Logic on Fields
 
 Sometimes you might have a field in your Form, that you want to show *only* if the user has entered a specific value in another field.

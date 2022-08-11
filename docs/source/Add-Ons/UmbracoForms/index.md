@@ -1,10 +1,3 @@
----
-versionFrom: 7.0.0
-versionTo: 10.0.0
-meta.Title: "Umbraco Forms"
-meta.Description: "Documentation on how to work with Umbraco Forms for both editors and developers"
----
-
 # Umbraco Forms Documentation
 
 _Documents how to work with Umbraco Forms (HQ's official Forms Builder) from both an editor and a developer standpoint._

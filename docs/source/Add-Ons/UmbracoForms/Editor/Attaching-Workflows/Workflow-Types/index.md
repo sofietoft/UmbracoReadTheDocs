@@ -1,8 +1,3 @@
----
-versionFrom: 9.0.0
-versionTo: 10.0.0
----
-
 # Workflow Types
 
 There are several built-in workflow types that can be used to extend the functionality of your Form.

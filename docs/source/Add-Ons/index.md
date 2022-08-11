@@ -1,8 +1,3 @@
----
-meta.Title: "Add-ons for Umbraco CMS"
-meta.Description: "Learn about the Umbraco CMS add-ons; Umbraco Forms and Umbraco Courier. How to install them, what they do and how to extend functionality."
-versionFrom: 7.0.0
----
 # Umbraco Products Documentation
 
 _Documentation for Umbraco Forms, Umbraco Deploy and Umbraco Courier products. These products are not standard parts of the Core, but

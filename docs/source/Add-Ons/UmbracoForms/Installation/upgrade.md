@@ -1,10 +1,3 @@
----
-versionFrom: 7.0.0
-versionTo: 10.0.0
-meta.Title: "Upgrading Umbraco Forms"
-meta.Description: "Documentation on how to upgrade Umbraco Forms"
----
-
 # Keeping Umbraco Forms up to date
 
 Forms allows you to stay in sync with the latest releases, so you can take advantage of new features and bug fixes.

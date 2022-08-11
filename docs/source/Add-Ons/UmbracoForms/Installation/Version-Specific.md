@@ -1,8 +1,3 @@
----
-versionFrom: 7.0.0
-versionTo: 10.0.0
----
-
 # Upgrading - version specific
 
 This page covers specific upgrade documentation for specific versions.
@@ -43,7 +38,7 @@ When upgrading from Forms 9, you should either first run a `dotnet clean`, or, a
   - `PostToUrl`
   - `WorkflowEmailService`
 - The public fields on the `Setting` class have been converted to properties.
-- The methods `GetMemberCacheKey` and `GetMemberValuesCacheKey` on` CacheKeys` taking an integer parameter have been removed.
+- The methods `GetMemberCacheKey` and `GetMemberValuesCacheKey` on `CacheKeys` taking an integer parameter have been removed.
 - The method `GetUserSecurity` on `IUserSecurityStorage` has been amended to take an integer parameter rather than an object.
 - The method `StringExtensions.DetectIsJson` has been removed (the equivalent exists in CMS).
 - Obsoleted methods in `FieldConditionEvaluation` have been removed.
@@ -54,12 +49,14 @@ When upgrading from Forms 9, you should either first run a `dotnet clean`, or, a
   - `FormDataSourceEventArgs`
   - `WorkflowEventArgs`
   - `BaseStorageEventArgs`
+
 Additional methods have been added to the following interfaces:
- - `IRecordStorage`
- - `IRecordFieldValueStorage`
- - `IUserSecurityStorage`
- - `IUserFormSecurityStorage`
- - `IFormsSecurity`
+
+- `IRecordStorage`
+- `IRecordFieldValueStorage`
+- `IUserSecurityStorage`
+- `IUserFormSecurityStorage`
+- `IFormsSecurity`
 - Additional properties of `SupportsMandatory` and `EditType` have been added to the `IFieldType` interface.
 - The obsoleted method `RegenerateFieldSetAndFieldIds` on `Form` has been removed,
 - The constructor of `FolderNotificationHandler` had an unused parameter removed.
@@ -96,10 +93,10 @@ Upgrading to Version 6 of Umbraco Forms, has a higher minimum dependency on Umbr
 
 With Umbraco you have many options to upgrade Umbraco Forms.
 
-* You can install the Forms package via the community package search from within the Developer Tab in the CMS
-* Umbraco Forms can be downloaded directly from [our.umbraco.com](https://our.umbraco.com/packages/developer-tools/umbraco-forms/)
-* You can download a ZIP file containing the updated files which you can unzip & apply over the top of your existing install
-* You can upgrade Forms using NuGet. Doing this will require a few more steps, which you can find in the next section
+- You can install the Forms package via the community package search from within the Developer Tab in the CMS
+- Umbraco Forms can be downloaded directly from [our.umbraco.com](https://our.umbraco.com/packages/developer-tools/umbraco-forms/)
+- You can download a ZIP file containing the updated files which you can unzip & apply over the top of your existing install
+- You can upgrade Forms using NuGet. Doing this will require a few more steps, which you can find in the next section
 
 ### Upgrading with NuGet
 
@@ -110,14 +107,15 @@ The file needs to be here before the site is restarted - due to the migration/up
 
 For new & clean installs done with NuGet this will not be a problem for you, as only the new Macro & its associated MacroPartial view file is part of the new NuGet version.
 
-
 ### Upgrade tasks
+
 The following outlines for `version 6.0.0` what upgrade/migration tasks that are being performed:
 
-* Rename legacy macro to make it easier to identify in the backoffice
-* Adds new form macro to insert a form with a theme
-* Moves JSON Form Storage files from `App_Plugins/UmbracoForms/Data` to `App_Data/UmbracoForms/Data` by default unless a custom Forms IFileSystem is configured such as Azure blob storage
-* Moves any Form PreValue sources that uses text files that were uploaded to the media section & now stores in the Umbraco Forms IFileSystem
+- Rename legacy macro to make it easier to identify in the backoffice
+- Adds new form macro to insert a form with a theme
+- Moves JSON Form Storage files from `App_Plugins/UmbracoForms/Data` to `App_Data/UmbracoForms/Data` by default unless a custom Forms IFileSystem is configured such as Azure blob storage
+- Moves any Form PreValue sources that uses text files that were uploaded to the media section & now stores in the Umbraco Forms IFileSystem
 
 ### Recommendation
+
 We highly recommend you make the switch away from the legacy macro and swap over to the newer macro that supports the new 6.0.0 feature of themes. The legacy macro is there to ease the transition over and to avoid entire sites forms to stop working.

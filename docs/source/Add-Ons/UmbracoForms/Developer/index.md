@@ -1,10 +1,3 @@
----
-versionFrom: 8.0.0
-versionTo: 10.0.0
-meta.Title: "Umbraco Forms Developer Documention"
-meta.Description: "Developer documentation covering retrieving data, how to extend the system by hooking into the provider model, and describes the available events and workflows you can use to extend or integrate Umbraco Forms."
----
-
 # Developer Documentation
 
 Developer documentation covers working with Umbraco Forms from a developer standpoint. It covers retrieving data, extending the system by hooking into the provider model, and describing the events and workflows available to extend or integrate Umbraco Forms.

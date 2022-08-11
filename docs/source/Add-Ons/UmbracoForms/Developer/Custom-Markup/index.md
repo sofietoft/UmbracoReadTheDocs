@@ -18,9 +18,9 @@ This will ensure that nothing is overwritten when you upgrade Forms to a newer v
 
 The razor macro uses some razor views to output the Form:
 
-* 1 view for each fieldtype
-* 1 view for the scripts
-* 1 view for the rest of the Form
+- 1 view for each fieldtype
+- 1 view for the scripts
+- 1 view for the rest of the Form
 
 You can find the default views in the `~\Views\Partials\Forms\Themes\default` folder if you are using Forms 6+, or in the `~\Views\Partials\Forms\`folder if you are using Forms 4.
 

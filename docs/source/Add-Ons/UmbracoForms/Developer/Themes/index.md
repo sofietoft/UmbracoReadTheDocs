@@ -1,10 +1,3 @@
----
-versionFrom: 9.0.0
-versionTo: 10.0.0
-meta.Title: "Theming Umbraco Forms"
-meta.Description: "Documentation on how to apply custom themes to Umbraco Forms"
----
-
 # Themes
 
 As of version 6.0.0 and newer Umbraco Forms supports Themes, allowing forms to be customised in a much simpler manner than found in version 4.x.

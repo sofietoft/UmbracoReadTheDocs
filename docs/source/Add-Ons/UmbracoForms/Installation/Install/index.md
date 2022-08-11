@@ -1,11 +1,3 @@
----
-versionFrom: 9.0.0
-versionTo: 10.0.0
-
-meta.Title: "Installing Umbraco Forms"
-meta.Description: "Installing Umbraco Forms"
----
-
 # Extending Umbraco with the Forms Section
 
 Since Umbraco v7.2, Umbraco contains the **Forms** section, by default. You will see a similar interface, when you click on the **Forms** section in the **Umbraco Backoffice**.

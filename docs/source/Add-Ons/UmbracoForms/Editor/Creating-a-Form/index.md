@@ -1,8 +1,3 @@
----
-versionFrom: 8.0.0
-versionTo: 10.0.0
----
-
 # Creating a Form - The Basics
 
 In this article, we'll take a look at the basic steps of creating a Form and adding the Form to your Umbraco site.
@@ -36,9 +31,9 @@ To create a Form, follow these steps:
     See this blog post for more details: [Umbraco version 7.9 and Forms 7.0](https://umbraco.com/blog/umbraco-version-79-and-forms-70-is-out/)
     :::
 
-6. Enter the **Name** for the Form. Let's call it _Our first form_.
+6. Enter the **Name** for the Form. Let's call it *Our first form*.
     ![Forms designer Set Name](images/FormDesignerFormNameV8.png)
-7. **[Optional]** Enter the **Page Name**. We'll call it _The first page_. Click **Add new page** at the bottom of the Forms designer to add more pages.
+7. **[Optional]** Enter the **Page Name**. We'll call it *The first page*. Click **Add new page** at the bottom of the Forms designer to add more pages.
     ![Forms designer page caption](images/FormDesignerPageCaptionV8.png)
 8. **[Optional]** Enter the **Group Name**. Click **Add new group** to add another group.
     ![Forms designer page caption](images/FormDesignerPageGroupV8.png)
@@ -109,7 +104,5 @@ To add the Form, follow these steps:
 8. The Form is inserted on to your page. Click the **Save and publish** button.
 
     ![Content page with form](images/ContentExamplesWithForm.png)
-
----
 
 Prev: [Editor Documentation](../index.md) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Next: [Form Settings](../Creating-a-Form/Form-Settings/index.md)

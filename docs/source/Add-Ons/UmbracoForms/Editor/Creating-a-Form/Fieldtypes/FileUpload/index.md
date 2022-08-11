@@ -1,8 +1,3 @@
----
-versionFrom: 8.5.4
-versionTo: 10.0.0
----
-
 # File upload
 
 The File Upload field allows the users to upload a file along with the Form on your website.
