@@ -22,4 +22,4 @@ Some text can gives an introduction to the documentation.
    /Tutorials/Members-Registration-And-Logins.md
    /Tutorials/Multilanguage-Setup.md
    /Tutorials/Multisite-Setup.md
-   /Tutorials/Creating-basic-site/index
+   /Tutorials/Creating-Basic-Site/index.rst
