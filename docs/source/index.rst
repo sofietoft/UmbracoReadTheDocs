@@ -6,7 +6,7 @@ The official documentation for Umbraco CMS
 
 Some text can gives an introduction to the documentation.
 
-`Tutorials <Tutorials/index.rst>`__
+`Tutorials <Tutorials/index>`__
 ---------
 
 Through our selection of tutorials you can learn how to use Umbraco to do various things and built different setups
