@@ -17,12 +17,12 @@ It is recommended that you work through the subsections in the following order.
 
     Getting-Started/index.md
     Document-Types/index.md
-    Creating-Your-first-template-and-content-node/index.md
-    CSS-and-images/index.md
+    Creating-Your-First-Template-and-Content-Node/index.md
+    CSS-And-Images/index.md
     Displaying-the-Document-Type-Properties/index.md
-    Creating-Master-template-part-1/index.md
-    Creating-Master-template-part-2/index.md
-    Setting-the-navigation-menu/index.md
-    Articles-parent-and-article-item/index.md
-    Adding-language-variants/index.md
-    Conclusion-where-next/index.md
+    Creating-Master-Template-Part-1/index.md
+    Creating-Master-Template-Part-2/index.md
+    Setting-The-Navigation-Menu/index.md
+    Articles-Parent-and-Article-Items/index.md
+    Adding-Language-Variants/index.md
+    Conclusion-Where-Next/index.md
