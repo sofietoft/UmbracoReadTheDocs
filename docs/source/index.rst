@@ -6,12 +6,17 @@ The official documentation for Umbraco CMS
 
 Some text can gives an introduction to the documentation.
 
+`Tutorials </Tutorials/index.rst>`__
+---------
+
+Through our selection of tutorials you can learn how to use Umbraco to do various things and built different setups
+depending on your needs.
+
 .. toctree::
    :maxdepth: 4
    :hidden:
    :caption: Tutorials
 
-   tutorials.md
    /Tutorials/Add-Google-Authentication.md
    /Tutorials/Connecting-Umbraco-Forms-and-Zapier.md
    /Tutorials/Creating-a-Custom-Dashboard.md

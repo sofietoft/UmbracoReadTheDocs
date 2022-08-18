@@ -13,7 +13,8 @@ We will avoid using any starter kits in this tutorial. Although these are extrem
 It is recommended that you work through the subsections in the following order.
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
+    :caption: Creating a site with Umbraco
 
     /Getting-Started/index.md
     /Document-Types/index.md
