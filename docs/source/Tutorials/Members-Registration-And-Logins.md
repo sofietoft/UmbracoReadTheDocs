@@ -1,9 +1,3 @@
----
-versionFrom: 10.0.0
-meta.Title: "Members Registration and Logins"
-meta.Description: "In this article you can learn about how to create Member registration and login functionality for the frontend of your application."
----
-
 # Member registration and login 
 
 Using tools available on a fresh install of Umbraco CMS, you can create a frontend-based registration and login functions and restrict access to specific areas of your site based on this system.

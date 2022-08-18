@@ -1,11 +1,3 @@
----
-versionFrom: 8.0.0
-versionTo: 10.0.0
-meta.Title: "Multilanguage setup in Umbraco"
-product: "CMS"
-meta.Description: "A guide to multilanguage setup in Umbraco"
----
-
 # Creating a Multilingual Site
 
 In Umbraco 8 and above, you can use **language variants** to setup a multilingual site. **Language Variants** allow you to have variants of the same content all under the same project. So, if you open a page and a language variant is enabled, you will see the option to switch the language from the drop-down list. Additionally, you can view or input the translated content.

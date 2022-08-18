@@ -1,11 +1,3 @@
----
-versionFrom: 9.0.0
-versionTo: 10.0.0
-meta.Title: "Add Google Authentication"
-meta.Description: "A guide to set up a Google login for the Umbraco Backoffice."
----
-
-
 # Add Google Authentication
 
 The Umbraco Backoffice supports external login providers (OAuth) for performing authentication of your users. This could be any OpenIDConnect provider such as Azure Active Directory, Identity Server, Google, or Facebook.

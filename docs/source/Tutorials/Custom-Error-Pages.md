@@ -1,7 +1,3 @@
----
-versionFrom: 9.0.0
----
-
 # Implementing custom error pages
 
 Since Umbraco is built upon Microsoft's .NET Framework and is using ASP.NET, you have several options when it comes to setting up custom error pages on your website.

@@ -1,11 +1,3 @@
----
-versionFrom: 8.0.0
-versionTo: 10.0.0
-meta.Title: "Multisite setup in Umbraco"
-product: "CMS"
-meta.Description: "A guide to multisite setup in Umbraco"
----
-
 # Multisite setup
 
 This tutorial explains how to host multiple sites from one project/installation of Umbraco.
