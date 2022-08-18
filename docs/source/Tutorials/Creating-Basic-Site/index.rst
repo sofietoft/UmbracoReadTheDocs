@@ -13,7 +13,7 @@ We will avoid using any starter kits in this tutorial. Although these are extrem
 It is recommended that you work through the subsections in the following order.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     Getting-Started/index.md
     Document-Types/index.md
