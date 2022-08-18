@@ -1,7 +1,7 @@
 Creating a Basic Website using Umbraco
 ======================================
 
-*This tutorial was last tested on **Umbraco 10.0.0+***
+*This tutorial was last tested on Umbraco 10.0.0+*
 
 Introduction
 ------------
@@ -14,16 +14,15 @@ It is recommended that you work through the subsections in the following order.
 
 .. toctree::
     :maxdepth: 2
-    :caption: Creating a site with Umbraco
 
-    /Getting-Started/index.md
-    /Document-Types/index.md
-    /Creating-Your-first-template-and-content-node/index.md
-    /CSS-and-images/index.md
-    /Displaying-the-Document-Type-Properties/index.md
-    /Creating-Master-template-part-1/index.md
-    /Creating-Master-template-part-2/index.md
-    /Setting-the-navigation-menu/index.md
-    /Articles-parent-and-article-item/index.md
-    /Adding-language-variants/index.md
-    /Conclusion-where-next/index.md
+    Getting-Started/index.md
+    Document-Types/index.md
+    Creating-Your-first-template-and-content-node/index.md
+    CSS-and-images/index.md
+    Displaying-the-Document-Type-Properties/index.md
+    Creating-Master-template-part-1/index.md
+    Creating-Master-template-part-2/index.md
+    Setting-the-navigation-menu/index.md
+    Articles-parent-and-article-item/index.md
+    Adding-language-variants/index.md
+    Conclusion-where-next/index.md
