@@ -35,7 +35,7 @@ depending on your needs.
     :caption: Fundamentals
 
     /fundamentals/setup/README.md
-    /fundamentals/backoffice/README.rst
+    /fundamentals/backoffice/index.rst
     /fundamentals/code/README.md
     /fundamentals/data/README.md
     /fundamentals/design/README.md

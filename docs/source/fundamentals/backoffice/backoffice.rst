@@ -1,16 +1,6 @@
 Backoffice
 ==========================================
 
-.. toctree:: 
-  :maxdepth: 2
-  :hidden:
-
-  sections.md
-  login.md
-  logviewer.md
-  variants.md
-  property-editors/README.md
-
 In this article you can learn more about the common terms and concepts that are used throughout the Umbraco backoffice.
 
 `Login screen <login.md>`__
@@ -75,12 +65,12 @@ A property editor is the view used by Data Types to insert content into Umbraco.
 
 `Read more about Property Editors <property-editors/README.md>`__
 
-`Media <..data/creating-media/README.md>`__
+`Media <../data/creating-media/README.md>`__
 ---------------------------------------------------------------
 
 Media items are used to store assets like images and video within the Media section and can be referenced from your content.
 
-`Read more about Media <..data/creating-media/README.md>`__
+`Read more about Media <../data/creating-media/README.md>`__
 
 Media Types
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
