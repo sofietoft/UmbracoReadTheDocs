@@ -1,9 +1,9 @@
-Backoffice
+Overview
 ==========================================
 
 In this article you can learn more about the common terms and concepts that are used throughout the Umbraco backoffice.
 
-`Login screen <login.md>`_
+`Login screen <login>`_
 ------------------------------------
 
 When you go to the backoffice for the first time, you're presented with the login screen.
@@ -22,7 +22,7 @@ A section in Umbraco is where you do specific tasks related to that section. For
   :width: 400
   :alt: The **Section menu** is the horizontal menu located on the top of the backoffice.
 
-`Read more about the sections menu <sections.md>`_.
+`Read more about the sections menu <sections>`_.
 
 Node
 ---------
@@ -34,12 +34,12 @@ Editor
 
 An editor is what you use to edit different items within the backoffice. There are editors specific to editing stylesheets, there are editors for editing Macros and so forth.
 
-`Content <../data/defining-content.md>`_
+`Content <../data/defining-content>`_
 -------------------------------------------------------
 
 Content is what you find in the Content section. Each item in the tree is called a **content node**. Each content node in the content tree consists of different fields, and each of them are defined by a Document Type.
 
-`Read more about Content <../data/defining-content.md>`_
+`Read more about Content <../data/defining-content>`_
 
 Document Type
 -----------------
@@ -51,26 +51,26 @@ Properties
 
 Every Document Type has properties. These are the fields that the content editor is allowed to edit for the content node.
 
-`Data Type <../data/data-types.md>`_
+`Data Type <../data/data-types>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Each Document Type property has a Data Type which defines the type of input of that property. Data Types reference a Property Editor and are configured in the Umbraco backoffice in the Settings section. A Data Type can be something basic (textstring, number, true/false) or more complex (multi-node tree picker, image cropper, etc).
 
-`Read more about Data Types <../data/data-types.md>`_
+`Read more about Data Types <../data/data-types>`_
 
-`Property Editors <property-editors/README.md>`_
+`Property Editors <property-editors/README>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A property editor is the view used by Data Types to insert content into Umbraco. An example of a property editor is the _Textarea_. It's possible to have many Textarea Data Types with different settings that all use the Textarea property editor.
 
-`Read more about Property Editors <property-editors/README.md>`_
+`Read more about Property Editors <property-editors/README>`_
 
-`Media <../data/creating-media/README.md>`_
+`Media <../data/creating-media/README>`_
 ---------------------------------------------------------------
 
 Media items are used to store assets like images and video within the Media section and can be referenced from your content.
 
-`Read more about Media <../data/creating-media/README.md>`_
+`Read more about Media <../data/creating-media/README>`_
 
 Media Types
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -79,12 +79,12 @@ Media Types are very similar to Document Types in Umbraco, except they are speci
 
 Umbraco comes with 3 default Media Types: **File**, **Folder** and **Image**.
 
-`Members <..data/members.md>`_
+`Members <..data/members>`_
 ---------------------------------------------
 
 A member is someone who has access to signup, register and login into your **public website** and is not to be confused with Users.
 
-`Read more about Members <..data/members.md>`_
+`Read more about Members <..data/members>`_
 
 Member Types
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
