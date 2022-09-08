@@ -6,7 +6,7 @@ In this section you can learn about the various sections and elements found in t
 These are the main parts:
 
 .. toctree:: 
-  :maxdepth: 2
+  :maxdepth: 1
 
   backoffice.rst
   sections.md
