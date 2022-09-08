@@ -13,7 +13,7 @@ Through our selection of tutorials you can learn how to use Umbraco to do variou
 depending on your needs.
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :hidden:
    :caption: Tutorials
 
@@ -30,7 +30,7 @@ depending on your needs.
    /Tutorials/Creating-Basic-Site/index.rst
 
 .. toctree::
-    :maxdepth: 4
+    :maxdepth: 2
     :hidden:
     :caption: Fundamentals
 
