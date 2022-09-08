@@ -11,9 +11,9 @@ When you go to the backoffice for the first time, you're presented with the logi
 .. image:: images/backoffice-login.png
   :width: 400
 
-`Read more about the login screen <login.md>`_.
+`Read more about the login screen <login.html>`_.
 
-`Section <sections.md>`_
+`Section <sections.html>`_
 --------------------------------
 
 A section in Umbraco is where you do specific tasks related to that section. For example Content, Settings and Users. You can navigate between the different sections of the backoffice by clicking the corresponding icon in the section menu.
@@ -22,7 +22,7 @@ A section in Umbraco is where you do specific tasks related to that section. For
   :width: 400
   :alt: The **Section menu** is the horizontal menu located on the top of the backoffice.
 
-`Read more about the sections menu <sections.md>`_.
+`Read more about the sections menu <sections.html>`_.
 
 Node
 ---------
@@ -34,12 +34,12 @@ Editor
 
 An editor is what you use to edit different items within the backoffice. There are editors specific to editing stylesheets, there are editors for editing Macros and so forth.
 
-`Content <../data/defining-content.md>`_
+`Content <../data/defining-content.html>`_
 -------------------------------------------------------
 
 Content is what you find in the Content section. Each item in the tree is called a **content node**. Each content node in the content tree consists of different fields, and each of them are defined by a Document Type.
 
-`Read more about Content <../data/defining-content.md>`_
+`Read more about Content <../data/defining-content.html>`_
 
 Document Type
 -----------------
@@ -79,12 +79,12 @@ Media Types are very similar to Document Types in Umbraco, except they are speci
 
 Umbraco comes with 3 default Media Types: **File**, **Folder** and **Image**.
 
-`Members <../data/members>`_
+`Members <../data/members.html>`_
 ---------------------------------------------
 
 A member is someone who has access to signup, register and login into your **public website** and is not to be confused with Users.
 
-`Read more about Members <../data/members>`_
+`Read more about Members <../data/members.html>`_
 
 Member Types
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
