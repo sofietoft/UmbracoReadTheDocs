@@ -34,5 +34,9 @@ depending on your needs.
     :hidden:
     :caption: Fundamentals
 
-    fundamentals/setup/requirements.md
+    /fundamentals/setup/README.md
+    /fundamentals/backoffice/README.md
+    /fundamentals/code/README.md
+    /fundamentals/data/README.md
+    /fundamentals/design/README.md
 
