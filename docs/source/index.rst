@@ -28,3 +28,11 @@ depending on your needs.
    /Tutorials/Multilanguage-Setup.md
    /Tutorials/Multisite-Setup.md
    /Tutorials/Creating-Basic-Site/index.rst
+
+.. toctree::
+    :maxdepth: 4
+    :hidden:
+    :caption: Fundamentals
+
+    fundamentals/setup/requirements.md
+
