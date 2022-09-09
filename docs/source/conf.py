@@ -16,7 +16,7 @@ release = '1.0'
 
 extensions = [
     'myst_parser',
-    'sphinx_search.extension',
+    'sphinx_search.extension'
     ]
 
 exclude_patterns = []
