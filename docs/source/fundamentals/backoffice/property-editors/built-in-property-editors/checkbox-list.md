@@ -59,7 +59,7 @@ Unlike other property editors, the Prevalue IDs are not directly accessible in R
 
 ## Add values programmatically
 
-See the example below to see how a value can be added or changed programmatically. To update a value of a property editor you need the [Content Service](../../../../../Reference/Management/Services/ContentService/index.md).
+See the example below to see how a value can be added or changed programmatically. To update a value of a property editor you need the [Content Service](../built-in-property-editors/).
 
 ```csharp
 @inject IContentService Services;
