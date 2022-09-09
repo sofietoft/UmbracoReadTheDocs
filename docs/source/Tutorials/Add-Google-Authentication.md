@@ -30,7 +30,7 @@ For this tutorial, you need:
 
 - [Visual Studio](https://visualstudio.microsoft.com/) installed
 - A [Google](https://myaccount.google.com/) account
-- A working [Umbraco solution](../../Fundamentals/Setup/index.md)
+- A working [Umbraco solution](../fundamentals/setup/README.md)
 
 ## Setting up a Google OAuth API
 
