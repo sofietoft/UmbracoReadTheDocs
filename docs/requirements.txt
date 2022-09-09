@@ -1,2 +1,2 @@
-myst_parser
-sphinx_search.extension
+myst-parser
+readthedocs-sphinx-search
